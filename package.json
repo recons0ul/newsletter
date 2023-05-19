@@ -1,0 +1,14 @@
+{
+  "name": "25.2-newsletter",
+  "version": "1.0.0",
+  "description": "A newsletter you can subscribe to",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "recons0ul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
